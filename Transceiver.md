@@ -39,3 +39,9 @@ TH-D75
 JPY 89,760-
 (- : 2024/04/14)
 https://www.kenwood.com/jp/com/amateur/fm/products/th-d75/
+
+FT-70D
+JPY 43,780-
+(22,800 : 2024/0518)
+https://www.yaesu.com/jp/amateur_index/product/ft-70d/
+
