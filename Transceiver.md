@@ -42,6 +42,10 @@ https://www.kenwood.com/jp/com/amateur/fm/products/th-d75/
 
 FT-70D
 JPY 43,780-
-(22,800 : 2024/0518)
+(22,800 : 2024/05/18)
 https://www.yaesu.com/jp/amateur_index/product/ft-70d/
 
+VX-6
+JPY 49,280-
+(27,500 : 2024/07/11)
+https://www.yaesu.com/jp/amateur_index/product/vx6/
