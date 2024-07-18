@@ -1,5 +1,6 @@
 # vx-6
-2024/07/18
+発売開始: 2005年
+購入日: 2024/07/18
 
 https://www.yaesu.com/jp/amateur_index/product/vx6/
 
