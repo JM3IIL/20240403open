@@ -2,7 +2,7 @@
 発売開始: 2005年
 購入日: 2024/07/18
 
-YAESU 144/430MHz 5W デュアルバンドハンディ機
+YAESU 144/430MHz 5W FMデュアルバンドハンディトランシーバー
 
 https://www.yaesu.com/jp/amateur_index/product/vx6/
 
