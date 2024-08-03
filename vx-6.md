@@ -17,3 +17,7 @@ https://blog.marxy.org/2021/11/programming-yaesu-vx-6-with-chirp.html
 
 https://chirp.danplanet.com/projects/chirp/wiki/Home
 
+https://chirpmyradio.com/projects/chirp/wiki/Download
+
+
+
