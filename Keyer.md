@@ -5,6 +5,8 @@ open cw keyer mk2 (K3NG)
 - https://github.com/ok1cdj/OpenCWKeyerMK2/
 - https://github.com/k3ng/k3ng_cw_keyer
 - https://groups.io/g/radioartisan/topic/open_cw_keyer_mk2_blue/102823082
+- http://3.233.122.73/wp-content/uploads/2023/04/THE-NANO-KEYER-MK2-ALL-1.pdf
 
+ 
 Open CW Keyer MK2 
 2024/10/20 ¥3,623- Amazon
