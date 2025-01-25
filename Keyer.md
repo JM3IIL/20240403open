@@ -5,6 +5,11 @@ Open CW Keyer MK2
 USBポート
 [USB-SERIAL CH340(COM3)]
 
+- K3NGの廉価コピー版
+- arduino nanoのコピー(CH340)を使用
+- CLIモードは使用できない。Winkey Emulatorモードを使用
+- 「N1MM Logger+」や、「CTESTWIN」から操作可能
+
 
 # Keyer
 
