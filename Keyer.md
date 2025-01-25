@@ -18,6 +18,9 @@ open cw keyer mk2 (K3NG)
 
 ## 
 https://www.jh1lhv.tokyo/entry/2014/10/11/172648
+https://www.jh1lhv.tokyo/entry/2014/10/16/222949
+https://www.jh1lhv.tokyo/archive/category/Arduino%20CW%20Keyer
+
 https://jh3drn.com/entry/2024/03/08/200413
 
 ## arduino
