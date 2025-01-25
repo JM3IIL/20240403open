@@ -1,5 +1,10 @@
+
 Open CW Keyer MK2 
 2024/10/20 ¥3,623- Amazon
+
+USBポート
+[USB-SERIAL CH340(COM3)]
+
 
 # Keyer
 
